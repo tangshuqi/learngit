@@ -6,3 +6,5 @@ Git is free software distributed under the GPL.
 new line
 
 git tracks change of files
+
+aaaa i am stupid
